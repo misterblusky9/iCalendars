@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tom W Miller Schedule//EN
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Course Introduction
+DESCRIPTION:Read Chapter 1, “Financial Management” and complete “Prepping for Exams”
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230817
+SUMMARY:Financial Statements
+DESCRIPTION:Read Chapter 2, “Financial Statements” and complete “Prepping for Exams”
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230822
+SUMMARY:Financial Statements
+DESCRIPTION:Read Chapter 2, “Financial Statements” and complete “Prepping for Exams”
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230824
+SUMMARY:Financial Statements
+DESCRIPTION:Read Chapter 2, “Financial Statements” and complete “Prepping for Exams”
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230829
+SUMMARY:Time Value of Money– Part 1
+DESCRIPTION:Read Chapter 3, “Time Value of Money– Part 1” and complete “Prepping for Exams”
+END:VEVENT
+
+...
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231128
+SUMMARY:Cost of Capital
+DESCRIPTION:Read Chapter 11, “Cost of Capital” and complete “Prepping for Exams”
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231130
+SUMMARY:Cost of Capital
+DESCRIPTION:Read Chapter 11, “Cost of Capital” and complete “Prepping for Exams”
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20231207T130000
+DTEND:20231207T150000
+SUMMARY:Final Exam
+DESCRIPTION:Take the exam in the classroom at the scheduled time
+END:VEVENT
+
+END:VCALENDAR
