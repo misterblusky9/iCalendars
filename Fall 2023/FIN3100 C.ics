@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tom W. Miller//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Start Chapter 1
+DESCRIPTION:Course Introduction - Financial Management and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230817
+SUMMARY:Start Chapter 2
+DESCRIPTION:Financial Statements and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230822
+SUMMARY:Chapter 2
+DESCRIPTION:Financial Statements and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230824
+SUMMARY:Finish Chapter 2
+DESCRIPTION:Financial Statements and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230829
+SUMMARY:Start Chapter 3
+DESCRIPTION:Time Value of Money– Part 1 and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230831
+SUMMARY:Chapter 3
+DESCRIPTION:Time Value of Money– Part 1 and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230905
+SUMMARY:Finish Chapter 3
+DESCRIPTION:Time Value of Money– Part 1 and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230907
+SUMMARY:Midterm #1
+DESCRIPTION:Take the exam during class.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230912
+SUMMARY:Start Chapter 4
+DESCRIPTION:Time Value of Money–Part 2 and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230914
+SUMMARY:Chapter 4
+DESCRIPTION:Time Value of Money–Part 2 and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230919
+SUMMARY:Finish Chapter 4
+DESCRIPTION:Time Value of Money–Part 2 and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230921
+SUMMARY:Start Chapter 5
+DESCRIPTION:Interest Rates and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230926
+SUMMARY:Finish Chapter 5
+DESCRIPTION:Interest Rates and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230928
+SUMMARY:Start Chapter 6
+DESCRIPTION:Bonds and Bond Valuation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231003
+SUMMARY:Finish Chapter 6
+DESCRIPTION:Bonds and Bond Valuation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231005
+SUMMARY:Midterm #2
+DESCRIPTION:Take the exam during class.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+SUMMARY:Start Chapter 7
+DESCRIPTION:Stocks and Stock Valuation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231012
+SUMMARY:Chapter 7
+DESCRIPTION:Stocks and Stock Valuation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231017
+SUMMARY:Finish Chapter 7
+DESCRIPTION:Stocks and Stock Valuation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231019
+SUMMARY:Start Chapter 8
+DESCRIPTION:Risk and Return and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231024
+SUMMARY:Chapter 8
+DESCRIPTION:Risk and Return and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231026
+SUMMARY:Finish Chapter 8
+DESCRIPTION:Risk and Return and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231031
+SUMMARY:Midterm #3
+DESCRIPTION:Take the exam during class.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231102
+SUMMARY:Start Chapter 9
+DESCRIPTION:Capital Budgeting Decision Models and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231107
+SUMMARY:Chapter 9
+DESCRIPTION:Capital Budgeting Decision Models and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Finish Chapter 9
+DESCRIPTION:Capital Budgeting Decision Models and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231114
+SUMMARY:Start Chapter 10
+DESCRIPTION:Cash Flow Estimation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231116
+SUMMARY:Finish Chapter 10
+DESCRIPTION:Cash Flow Estimation and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231128
+SUMMARY:Start Chapter 11
+DESCRIPTION:Cost of Capital and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231130
+SUMMARY:Finish Chapter 11
+DESCRIPTION:Cost of Capital and complete Prepping for Exams.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231207T130000
+DTEND:20231207T150000
+SUMMARY:Final Exam
+DESCRIPTION:Take the exam in the classroom at the scheduled time.
+END:VEVENT
+END:VCALENDAR
